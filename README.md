@@ -6,7 +6,7 @@ Create a multispot pattern via phase modulation using a LCOS-SLM.
 
 The repo contains:
 
-- `patternlib.py`: the librbary for generating the multispot pattern
+- `patternlib.py`: the library for generating the multispot pattern.
 - `pattern_server.py`: a script to start a "pattern server" listening for
   pattern parameters and returning 2D arrays containing the pattern.
 - installer.cfg: configuration for building an NSIS installer for a stand-alone

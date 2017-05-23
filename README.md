@@ -12,3 +12,9 @@ The repo contains:
   
 All the rest are just notebooks GUIs for playing around with generating the pattern
 and visualizing it using QT5 or jypyter notebook widgets.
+
+# Dependencies
+
+- python 3.5+
+- numpy 1.10+
+- pyyaml 3.12

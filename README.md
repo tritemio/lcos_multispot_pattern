@@ -2,6 +2,8 @@
 
 Create a multispot pattern via phase modulation using a LCOS-SLM.
 
+![LCOS multispot phase pattern](pattern.png)
+
 The repo contains:
 
 - `patternlib.py`: the librbary for generating the multispot pattern

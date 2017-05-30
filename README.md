@@ -12,8 +12,8 @@ The repo contains:
 - `installer.cfg`: configuration for building an NSIS installer for a stand-alone
   installation of `pattern_server.py` using [pynsist](https://github.com/takluyver/pynsist).
   
-All the other files are just notebooks GUIs for playing around with generating the pattern
-and visualizing it using QT5 or jypyter notebook widgets.
+The other files are just notebooks GUIs for playing around with generating the pattern
+and visualizing it using QT5 or jupyter notebook widgets.
 
 # Dependencies
 
